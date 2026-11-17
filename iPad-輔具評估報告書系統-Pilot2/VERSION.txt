@@ -1,6 +1,0 @@
-iPad 輔具評估報告書系統
-Version: Pilot 2.0
-Build date: 2026-11-17
-Included forms: 01, 05, 06, 16, 17
-Storage: local IndexedDB
-PDF mode: official-form raster overlay + complete electronic record appendix
